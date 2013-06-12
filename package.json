@@ -1,0 +1,23 @@
+{
+  "name": "rras",
+  "version": "0.1.0",
+  "description": "Raster resample, aspect and slope.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "tap test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FireEmbers/rras.git"
+  },
+  "keywords": [
+    "resample",
+    "slope",
+    "aspect",
+    "raster",
+    "gis",
+    "postgis"
+  ],
+  "author": "Flavio Sousa",
+  "license": "MIT"
+}
